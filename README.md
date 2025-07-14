@@ -11,6 +11,9 @@ _Participated in a team of **two** and secured **8th** position among 50 entries
 ### Handwritten Digit Recognition | Self Project (_Jul ‘25_) 
 -	Classified **handwritten digits** from the MNIST dataset and achieved a classification accuracy of **99.2%** using **transfer learning** 
 
+## Relevant Courses Undertaken
+- **Supervised Machine Learning: Regression and Classification** on Coursera [[Certificate]](https://civildampiitb.github.io/#/shashankblog)
+
 ## Blogs
 [My International Experience in the Seismic Design Competition 2023](https://civildampiitb.github.io/#/shashankblog)
 

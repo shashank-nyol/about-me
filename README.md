@@ -1,18 +1,17 @@
 ## Education
-- B.Tech. + M.Tech., Civil | Indian Institute of Technology Bombay (_June 2025_)
+B.Tech. + M.Tech., Civil | Indian Institute of Technology Bombay (_June 2025_)
 
 #### Technical Skills: Excel, VBA, Python
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Birds Species Classification | AI-ML General Championship, IIT Bombay (_Mar ‘25_)
+_Participated in a team of **two** and secured **8th** position among 50 entries in the AI-ML General Championship_
+- Classified **200** bird species from a dataset of **12000** images with subtle interclass differences, achieving **~92%** accuracy
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-
-![Bike Study](/assets/img/bike_study.jpeg)
+### Handwritten Digit Recognition | Self Project (_Jul ‘25_) 
+-	Classified **handwritten digits** from the MNIST dataset and achieved a classification accuracy of **99.2%** using **transfer learning** 
 
 ## Blogs
-- ![Seismic Design Competition 2023](https://civildampiitb.github.io/#/shashankblog)
+[My International Experience in the Seismic Design Competition 2023](https://civildampiitb.github.io/#/shashankblog)
 
 ## Link to Resume

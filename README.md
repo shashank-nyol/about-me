@@ -6,6 +6,7 @@ B.Tech. + M.Tech., Civil | Indian Institute of Technology Bombay (_June 2025_)
 ## Projects
 ### Birds Species Classification (_Mar ‘25_)
 _Participated in a team of **two** and secured **8th** position among 50 entries in the AI-ML General Championship at IIT Bombay_
+
 Classified **200** bird species from a dataset of **12000** images with subtle interclass differences, achieving **~92%** accuracy
 
 ### Handwritten Digit Recognition (_Jul ‘25_) 
